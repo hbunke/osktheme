@@ -3,8 +3,10 @@
    This text does not appear on pypi or github. It is a comment.
 
 ==============================================================================
-Spot
+OSK Theme
 ==============================================================================
+(Based on plonetheme.spot by Vikas Parashar, https://github.com/vikas-parashar/plonetheme.spot )
+
 
 A flat theme for Plone 5.
 
