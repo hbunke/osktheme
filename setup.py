@@ -12,9 +12,9 @@ long_description = '\n\n'.join([
 
 
 setup(
-    name='plonetheme.spot',
-    version='1.2.dev0',
-    description="A theme for Plone 5",
+    name='plonetheme.osk',
+    version='1.0',
+    description="A Plone 5 theme for OSK",
     long_description=long_description,
     # Get more from https://pypi.python.org/pypi?%3Aaction=list_classifiers
     classifiers=[
@@ -27,8 +27,8 @@ setup(
         "License :: OSI Approved :: MIT License",
     ],
     keywords='Python Plone Theme <web></web>',
-    author='Vikas Parashar',
-    author_email='svnitvikas@gmail.com',
+    author='Hendrik Bunke',
+    author_email='bunke@hbxt.org',
     url='https://pypi.python.org/pypi/plonetheme.spot',
     license='MIT License',
     packages=find_packages(exclude=['ez_setup']),
